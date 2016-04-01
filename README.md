@@ -4,5 +4,6 @@ As I embark on my journey to finding a job, I would like to chronicle my experie
 
 #Changelog
 
--Added 'isPrime' algorithm 
+-Added 'isPrime' algorithm
+
 -Added WIP Hash Table program
